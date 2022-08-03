@@ -1,0 +1,611 @@
+.Kr_ResumeIntro_edit__yWTcM {
+    
+    height: 440px;
+    position: relative;
+    z-index: 0;
+    background-color: #f1f7fe;
+}
+.Kr_ResumeIntro_edit__yWTcM>div {
+    text-align: left;
+    padding-top: 100px!important;
+    padding-bottom: 0!important;
+}
+.Kr_ResumeIntro_content__Y3x_h {
+    text-align: center;
+    max-width: 1060px;
+    margin: 0 auto;
+    word-break: keep-all;
+    word-wrap: break-word;
+}
+.Kr_ResumeIntro_edit__yWTcM>div img {
+    display: -ms-flexbox;
+    display: flex;
+    justify-self: center;
+    max-width: 1440px;
+    width: 1440px!important;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    margin: 0 auto;
+}
+.Kr_ResumeIntro_edit__yWTcM>div h1 {
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: -.027em;
+    line-height: 62px;
+    margin: 0;
+}
+.Kr_ResumeIntro_edit__yWTcM>div h2 {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin-top: 15px;
+    margin: 20px 0 0;
+}
+.Kr_ResumeIntro_edit__yWTcM button {
+    height: 50px;
+    padding: 13px 32px;
+    margin-top: 50px;
+    font-weight: 600;
+    font-size: 16px;
+}
+.Button_Button__sizeMedium__k0A1w {
+    height: 40px;
+    font-size: 15px;
+}
+.Button_Button__contained__toUI5 {
+    color: #fff;
+    background-color: #36f;
+    border: none;
+}
+.Button_Button__root__V1ie3 {
+    position: relative;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    vertical-align: middle;
+    min-width: 64px;
+    padding: 0 27px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    border: none;
+    background-color: none;
+    cursor: pointer;
+}
+.Kr_ResumeIntro_edit_desc__se2yG {
+    margin-top: 18px;
+    text-align: right;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #939393;
+    letter-spacing: .031em;
+}
+.Kr_ResumeIntro__MpFfg{
+    padding-top: 100px;
+}
+.Kr_ResumeIntro_advantage__U1YTY {
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.Kr_ResumeIntro_content__Y3x_h {
+    text-align: center;
+    max-width: 1060px;
+    margin: 0 auto;
+    word-break: keep-all;
+    word-wrap: break-word;
+}
+.Kr_ResumeIntro_advantage__U1YTY h1 {
+    font-weight: 700;
+    font-size: 36px;
+    margin: 0;
+}
+.Kr_ResumeIntro_advantage_container__7gr1E {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.Kr_ResumeIntro_advantage_container__7gr1E li {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-line-pack: justify;
+    align-content: space-between;
+    width: 520px;
+    height: 480px;
+    padding-top: 50px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.Kr_ResumeIntro_advantage_first__MbFow {
+    background-color: #f1f7fe;
+}
+.Kr_ResumeIntro_advantage_container__7gr1E li>div {
+    padding-left: 50px;
+}
+.Kr_ResumeIntro_advantage_container__7gr1E li>div h2 {
+    margin-top: 0;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 135.7%;
+    margin: 20px 0 0;
+}
+.Kr_ResumeIntro_advantage_container__7gr1E li>div h3 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    margin-top: 15px;
+}
+.Kr_ResumeIntro_advantage_second__28zcH {
+    background-color: #f1f1fe;
+}
+.Kr_ResumeIntro_advantage_third__GJYHZ {
+    margin-top: 20px;
+    background-color: #f3f8ee;
+}
+.Kr_ResumeIntro_advantage_last__05dBQ {
+    margin-top: 20px;
+    background-color: #ecf8fb;
+}
+.Kr_ResumeIntro__MpFfg section+section {
+    padding-top: 100px;
+}
+
+.Kr_ResumeIntro_example__8XCr2 {
+    padding-top: 100px;
+    position: relative;
+    background-color: #f2f4f7;
+}
+.Kr_ResumeIntro_content__Y3x_h {
+    text-align: center;
+    max-width: 1060px;
+    margin: 0 auto;
+    word-break: keep-all;
+    word-wrap: break-word;
+}
+.Kr_ResumeIntro_content__Y3x_h h1 {
+    font-weight: 600;
+    font-size: 40px;
+    margin: 0;
+}
+.Kr_ResumeIntro_example__8XCr2>div a {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 197px;
+    height: 50px;
+    margin: 43px auto 0;
+    background-color: #36f;
+    letter-spacing: .0056em;
+    border-radius: 50px;
+}
+.Kr_ResumeIntro_example__8XCr2>div a p {
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+}
+.Kr_ResumeIntro_example_list__oQn1S {
+    margin-top: 50px;
+}
+.Kr_ResumeIntro_example_list__oQn1S>div {
+    max-width: 1060px;
+    margin: 0 auto;
+    padding: 90px 90px 20px;
+    background-color: #fff;
+}
+.Kr_ResumeIntro_example_list_summary__eODmu {
+    line-height: 150%;
+    font-weight: 400;
+    font-size: 16px;
+}
+.Kr_ResumeIntro_example_list_summary__eODmu>h1 {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.Kr_ResumeIntro_example_list_summary__eODmu>* {
+    margin-top: 20px;
+}
+.Kr_bubbleContainer_isShow__XA0dk {
+    color: #08ba9c!important;
+    
+    transition: color 1s linear .1s;
+}
+.Kr_ResumeIntro__MpFfg .Kr_bubble__DzcPA:after {
+    content: "";
+    display: block;
+    position: absolute;
+    border-color: #08ba9c transparent;
+    border-style: solid;
+    border-width: 10px 6px 0;
+    width: 0;
+    z-index: 1;
+    bottom: -2px;
+    left: -4px;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.Kr_bubbleContainer__8d0zf {
+    color: #08ba9c!important;
+    
+    transition: color 1s linear .1s;
+    display: flex!important;
+  
+    justify-content: space-between;
+   
+    align-items: center;
+}
+.Kr_ResumeIntro__MpFfg .Kr_bubbleContainer_isShow__XA0dk>div:last-child {
+    visibility: visible;
+    
+    transform: translate3d(0,-25%,0);
+    opacity: 1;
+    position: relative;
+    
+    display: flex;
+    
+    align-items: center;
+    
+    justify-content: center;
+    width: 242px;
+    height: 36.55px;
+    background-color: #08ba9c;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 13px;
+    color: #fff;
+    line-height: 18px;
+    letter-spacing: .025em;
+    
+}
+ .Kr_bubble__DzcPA {
+    visibility: visible;
+    
+    transform: translate3d(0,-25%,0);
+    opacity: 1;
+    position: relative;
+    
+    display: flex;
+    
+    align-items: center;
+    
+    justify-content: center;
+    width: 242px;
+    height: 36.55px;
+    background-color: #08ba9c;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 12px;
+    color: #fff;
+    line-height: 18px;
+    letter-spacing: .025em;
+}
+.Kr_ResumeIntro_example_list_summary__eODmu>div ul {
+    margin: 0;
+    list-style-type: disc;
+    padding-left: 25px;
+    letter-spacing: .0056em;
+}
+.Kr_ResumeIntro_example_list__oQn1S hr {
+    margin: 50px 0;
+    background-color: #333;
+    height: 1px;
+}
+.Divider_Divider__root__f2LD0 {
+    height: 1px;
+    margin: 0;
+    border: none;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    background-color: #ececec;
+}
+.Kr_ResumeIntro_example_list_career__iw5cQ {
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+}
+.Kr_ResumeIntro_example_list_career_title__PB_K5 {
+    width: 78px;
+}
+.Kr_ResumeIntro_example_list_career_title__PB_K5 h5 {
+    font-weight: 400;
+    font-size: 16px;
+}
+.Kr_ResumeIntro_example_list_career_content__J4LMf {
+    width: 100%;
+    margin-bottom: 100px;
+}
+.Kr_ResumeIntro_example_list_career_content_company__GYmj3 {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    font-weight: 600;
+    font-size: 16px;
+}
+.Kr_ResumeIntro_example_list_career_content_company__GYmj3>div h5 {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: .0056em;
+}
+.Kr_ResumeIntro_example_list_career_content_company__GYmj3>div p {
+    margin-top: 5px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 142.9%;
+    letter-spacing: .0145em;
+}
+.Kr_ResumeIntro_example_list_career_content_company__GYmj3>p {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: .0056em;
+}
+.Kr_ResumeIntro_example_list_career_content__J4LMf>ul {
+    margin-top: 20px;
+    letter-spacing: .0145em;
+    list-style: none;
+}
+.Kr_ResumeIntro__MpFfg .Kr_bubbleContainer_isShow__XA0dk {
+    color: #08ba9c!important;
+    -webkit-transition: color 1s linear .1s;
+    transition: color 1s linear .1s;
+    
+}
+
+.Kr_ResumeIntro__MpFfg .Kr_bubbleContainer__8d0zf {
+    display: -ms-flexbox!important;
+    display: flex!important;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-align: center;
+    align-items: center;
+    
+}
+
+.Kr_ResumeIntro_example_list_career_content__J4LMf>ul li {
+    position: relative;
+    padding-left: 19px;
+    
+}
+.Kr_ResumeIntro_example_list_career_content__J4LMf>ul li h6 {
+    margin-bottom: 10px;
+}
+.Kr_ResumeIntro_example_list_career_content__J4LMf>ul li h6 span {
+    font-weight: 600;
+    font-size: 14px;
+    margin-right: 10px;
+}
+.Kr_ResumeIntro_example_list_career_content__J4LMf>ul li+li {
+    margin-top: 20px;
+}
+.Kr_ResumeIntro_example_list_career_content__J4LMf>ul li {
+    position: relative;
+    padding-left: 19px;
+}
+.Kr_ResumeIntro_example_list_career_content__J4LMf>div:last-of-type {  
+    display: flex;
+    justify-content: space-between;
+    
+}
+.gradations_container
+{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 350px;
+    background: -webkit-gradient(linear,left top,left bottom,from(hsla(0,0%,97%,0)),to(#f8f8f8));
+    background: linear-gradient(180deg,hsla(0,0%,97%,0),#f8f8f8);
+}
+
+.Kr_ResumeIntro_example_list_career_content__J4LMf>div:last-of-type>div h5 {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: .0056em;
+}
+.Kr_ResumeIntro_example_list_career_content__J4LMf>div:last-of-type>div p {
+    margin-top: 5px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 142.9%;
+    letter-spacing: .0145em;
+}
+.Kr_ResumeIntro_example_list_career_content__J4LMf>div:last-of-type>p {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: .0056em;
+}
+.Kr_ResumeIntro__MpFfg section+section {
+    padding-top: 100px;
+}
+.Kr_ResumeIntro_abroad__TMME4 {
+    padding-top: 50px!important;
+    padding-bottom: 100px;
+    background-color: #f8f8f8;
+}
+.Kr_ResumeIntro_content__Y3x_h {
+    text-align: center;
+    max-width: 1060px;
+    margin: 0 auto;
+    word-break: keep-all;
+    word-wrap: break-word;
+}
+.Kr_ResumeIntro_abroad__TMME4>div h2 {
+    font-weight: 700;
+    font-size: 26px;
+}
+.Kr_ResumeIntro_content__Y3x_h h2 {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 20px 0 0;
+    line-height: 1.5;
+}
+.Kr_ResumeIntro_abroad__TMME4>div ul {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.Kr_ResumeIntro_abroad__TMME4>div ul li {
+    width: 520px;
+    height: 330px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.Kr_ResumeIntro_abroad__TMME4>div ul li img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.Kr_ResumeIntro_abroad__TMME4>div ul li a>div {
+    width: 100%;
+    height: 100px;
+    padding: 18px 10px 23px 20px;
+    text-align: left;
+    background-color: #fff;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.Kr_ResumeIntro_abroad__TMME4>div ul li a>div h4 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: -.012em;
+}
+.Kr_ResumeIntro_abroad__TMME4>div ul li a>div p {
+    margin-top: 8px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: .0056em;
+    color: #939393;
+}
+.Kr_ResumeIntro_abroad__TMME4>div>a {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    grid-gap: 6px;
+    gap: 6px;
+    width: 233px;
+    height: 50px;
+    margin: 50px auto 0;
+    border-radius: 50px;
+    color: #000;
+    border: 1px solid #ececec;
+    background-color: transparent;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+}
+.Kr_ResumeIntro_abroad__TMME4>div>a span {
+    width: 8px;
+}
+.Kr_ResumeIntro_ai__wVhsO {
+    padding: 0!important;
+    height: 452px;
+}
+.Kr_ResumeIntro_ai__wVhsO>div {
+    position: relative;
+    height: 100%;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    text-align: left;
+}
+.Kr_ResumeIntro_content__Y3x_h {
+    text-align: center;
+    max-width: 1060px;
+    margin: 0 auto;
+    word-break: keep-all;
+    word-wrap: break-word;
+}
+.Kr_ResumeIntro_ai_content__IyV_A>div {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 130%;
+    letter-spacing: -.024em;
+}
+.Kr_ResumeIntro_ai_content__IyV_A>div>p {
+    height: 47px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: baseline;
+    align-items: baseline;
+    grid-gap: 5px;
+    gap: 5px;
+}
+.Kr_ResumeIntro_ai_content__IyV_A>p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    margin-top: 20px;
+}
+.Kr_ResumeIntro_ai_content__IyV_A button {
+    height: 50px;
+    margin-top: 30px;
+}
+
+.Button_Button__sizeMedium__k0A1w {
+    height: 40px;
+    font-size: 15px;
+}
+.Button_Button__contained__toUI5 {
+    color: #fff;
+    background-color: #36f;
+    border: none;
+}
+.Button_Button__root__V1ie3 {
+    position: relative;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    vertical-align: middle;
+    min-width: 64px;
+    padding: 0 27px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    border: none;
+    background-color: none;
+    cursor: pointer;
+}
+.Kr_ResumeIntro_ai__wVhsO>div>img {
+    position: absolute;
+    bottom: 0;
+    left: 575px;
+}

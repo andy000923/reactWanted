@@ -1,0 +1,144 @@
+.Divider_divider__IzBiR {
+    margin: 0 auto;
+    position: relative;
+    max-width: 1060px;
+    height: 1px;
+    background-color: #ececec;
+    width: 87.72%;
+}
+.FeaturedJobList_featured__Lx_Rq {
+    margin: 0 auto;
+    padding: 70px 0 50px;
+    width: 87.72%;
+    position: relative;
+    max-width: 1060px;
+}
+.FeaturedJobList_featured__title__CrAd5 {
+    position: relative;
+    margin-bottom: 30px;
+}
+.FeaturedJobList_featured__title__CrAd5>h2 {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1.05;
+    color: #111;
+}
+.List_List_container__JnQMS>ul {
+    margin: -10px;
+    padding: 0;
+}
+.List_List_container__JnQMS>ul li {
+    width: 25%;
+    padding: 10px;
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+}
+.Card_className__u5rsb>a {
+    display: block;
+}
+.Card_className__u5rsb header {
+    padding-bottom: 75%;
+    position: relative;
+    background-size: cover;
+    background-position: 50%;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 0 0 1px rgb(0 0 0 / 10%);
+    box-shadow: inset 0 0 0 1px rgb(0 0 0 / 10%);
+    background-image: url(https://image.wanted.co.kr/optimize?src=https://static.wanted.co.kr/images/company/667/mfecpvb81hh1kovn__400_400.jpg&w=400&q=75);
+}
+
+.Card_className__u5rsb header .bookmarkBtn {
+    background: none;
+    padding: 8px 6px;
+    width: 42px;
+    height: 42px;
+    top: 0;
+    right: 0;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    z-index: 1;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+
+.Card_className__u5rsb header button {
+    width: 60px;
+    height: 30px;
+    border-radius: 3px;
+    position: absolute;
+    background: rgba(0,0,0,.3);
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -ms-flexbox;
+    display: flex;
+}
+.Card_className__u5rsb .body {
+    padding: 14px 0;
+}
+.Card_className__u5rsb .body .job-card-position {
+    position: relative;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.2;
+    max-height: 2.4em;
+    overflow: hidden;
+    text-align: left;
+    word-break: break-word;
+}
+.Card_className__u5rsb .body .job-card-company-name {
+    color: #333;
+    font-weight: 600;
+}
+.Card_className__u5rsb .body .job-card-company-location, .Card_className__u5rsb .body .job-card-company-name {
+    font-size: 14px;
+    line-height: normal;
+    text-align: left;
+    word-break: break-word;
+    width: 100%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.Card_className__u5rsb .body .job-card-company-location {
+    font-weight: 400;
+    color: #999;
+}
+.Card_className__u5rsb .body .job-card-company-location, .Card_className__u5rsb .body .job-card-company-name {
+    font-size: 14px;
+    line-height: normal;
+    text-align: left;
+    word-break: break-word;
+    width: 100%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.Card_className__u5rsb .body .addressDot {
+    margin: 0 3px;
+    top: -4px;
+    position: relative;
+}
+.Card_className__u5rsb .body .reward {
+    margin-top: 10px;
+    color: #333;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+    word-break: break-word;
+    width: 100%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
