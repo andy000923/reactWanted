@@ -1,0 +1,353 @@
+.Divider_divider__IzBiR {
+    margin: 0 auto;
+    position: relative;
+    max-width: 1060px;
+    height: 1px;
+    background-color: #ececec;
+    width: 87.72%;
+}
+.Shortcut_container__JiX9R {
+    max-width: 1060px;
+    margin: 0 auto;
+    padding: 40px 0 85px;
+}
+@media (min-width: 992px) and (max-width: 1199px){
+.Shortcut_container__JiX9R {
+    margin: 0 auto;
+    padding: 40px 0 85px;
+    width: 90%;
+}
+}
+.Shortcut_shortcut_list__ZwPNY {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    color: #333;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    word-break: break-all;
+}
+.Shortcut_shortcut_list__ZwPNY>li>a, .Shortcut_shortcut_list__ZwPNY>li button {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: auto 20px;
+}
+.Shortcut_shortcut_list__ZwPNY>li:first-child {
+    background-color: #f2f5ff;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-left: none;
+}
+
+.Shortcut_shortcut_list__ZwPNY>li {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex: 1 0;
+    flex: 1 0;
+    height: 80px;
+    border-left: 1px solid #fff;
+}
+.Shortcut_shortcut_list__ZwPNY>li:nth-child(2) {
+    background-color: #f3f9fe;
+}
+
+.Shortcut_shortcut_list__ZwPNY>li:nth-child(3) {
+    background-color: #eefaf9;
+}
+
+.Shortcut_shortcut_list__ZwPNY>li:last-child {
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+.Shortcut_shortcut_list__ZwPNY>li:nth-child(4) {
+    background-color: #f2fbf5;
+}
+.MatchedJobList_matching__container__sahEu {
+    margin: 0 auto;
+    padding: 0 0 45px;
+    position: relative;
+    max-width: 1060px;
+    width: 87.72%;
+    margin-top: 10px;
+    
+}
+.MatchedJobList_matching__title_main__z1K1g {
+    margin-bottom: 6px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1.05;
+    letter-spacing: normal;
+    text-align: left;
+    color: #111;
+}
+.TitleList_titleList__GaKzt{
+    margin-top: 40px;
+}
+.TitleList_titleList__GaKzt .TitleList_title__c2VAV>span {
+    font-weight: 400;
+}
+.MatchedJobList_matching__title__0eDXZ {
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1.05;
+    letter-spacing: normal;
+    text-align: left;
+    color: #111;
+}
+.EmptyMatched_container__6GIVb {
+    margin-top: 30px;
+    margin-bottom: 35px;
+    padding: 25px 30px 25px 50px;
+}
+.EmptyMatched_container__6GIVb {
+    max-width: 1060px;
+    border-radius: 45px;
+    background-color: #f3f9fe;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.EmptyMatched_container__6GIVb h3 {
+    line-height: 1.28;
+    color: #111;
+    word-break: keep-all;
+    font-size:18px;
+}
+.EmptyMatched_container__6GIVb button {
+    padding: 10px 20px;
+    border-radius: 25px;
+    background-color: #36f;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fefefe;
+    line-height: 22px;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+}
+.CompanyTag_companyTag__rnoHO {
+    margin: 0 auto;
+    padding-top: 70px;
+}
+
+
+.TitleList_titleList__GaKzt .TitleList_slider_container__OYQTU {
+    margin: 10px;   
+}
+.lick-slider {
+    margin-bottom: 70px;
+    position: relative;
+    display: block;
+    
+}
+
+.lick-list {
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.lick-track {
+    position: relative;
+    left: 0;
+    top: 0;
+    display: block;
+}
+.lick-initialized .lick-slide {
+    display: inline-block;
+}
+.lick-slide {
+    float: left;
+    height: 100%;
+    min-height: 1px;
+    display: none;
+}
+.TitleList_titleList__GaKzt .TitleList_title_wrapper__MoG0p {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 51px;
+    padding-top: 36px;
+    margin-bottom: 30px;
+}
+.TitleList_titleList__GaKzt .TitleList_title__c2VAV>a>img {
+    position: relative;
+    top: -2px;
+    width: 24px;
+    height: 24px;
+    margin: 0 8px 0 4px;
+}
+.TitleList_titleList__GaKzt .TitleList_title__c2VAV {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 9px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #333;
+    text-align: center;
+}
+.TitleList_titleList__GaKzt .TitleList_title_buttonArea__WFGo5, .TitleList_titleList__GaKzt .TitleList_title_buttonArea__WFGo5>a {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+}
+.Card_card__container__7W4Fx {
+    padding: 10px;
+    width: 540px;
+    height: 350px;
+}
+.Card_card__container__7W4Fx2 {
+    padding: 10px;
+    width: 540px;
+    height: 426px;
+}
+.Card_card__container__7W4Fx>a {
+    display: block;
+}
+.Card_card__container__7W4Fx .main_image {
+    background-size: cover;
+    background-position: 50%;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 0 0 1px rgb(0 0 0 / 10%);
+    box-shadow: inset 0 0 0 1px rgb(0 0 0 / 10%);
+    width:520px;
+    height:270px;
+}
+.Card_card__container__7W4Fx2 .main_image2 {
+    background-size: cover;
+    background-position: 50%;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 0 0 1px rgb(0 0 0 / 10%);
+    box-shadow: inset 0 0 0 1px rgb(0 0 0 / 10%);
+    width:520px;
+    height:300px;
+}
+.Card_card__body__rie2K {
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 17px;
+}
+.Card_card__body_flexbox__blYGd {
+    display: flex;
+    flex: 1 0;
+}
+.Card_card__body_img__dH9x1 {
+    width: 42px;
+    height: 35px;
+    margin-right: 12px;
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 1px rgb(0 0 0 / 10%);
+}
+.Card_card__body_info__8f_bM {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+}
+.Card_card__body_info_title__e5_Il {
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+    word-break: break-all;
+}
+.Card_card__body_info_location__tXo2O {
+    font-size: 14px;
+    font-weight: 500;
+    color: #999;
+}
+.Card_card__body_btn__68NON {
+    border: 1px solid #e1e2e3;
+    padding: 12px 25.5px 11px;
+    line-height: 1;
+}
+
+.Button_Button__sizeMedium__k0A1w {
+    height: 40px;
+    font-size: 15px;
+}
+.Button_Button__outlined__H2mkd {
+    color: #36f;
+    background-color: #fff;
+    border: 1px solid #36f;
+}
+.Button_Button__root__V1ie3 {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    min-width: 64px;
+    padding: 0 27px;
+    box-sizing: border-box;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    border: none;
+    background-color: none;
+    cursor: pointer;
+}
+.Button_Button__label__1Kk0v {
+    width: 100%;
+    font-size: inherit;
+    font-weight: inherit;
+    display: inherit;   
+    align-items: inherit;
+    justify-content: inherit;
+    color: inherit;
+}
+.Item_Item__logos__Madl5 {
+    margin-top: 8px;
+}
+.Item_Item__logos__Madl5>img {
+    display: inline;
+    margin-right: 8px;
+    margin-top: 8px;
+    border: 1px solid rgba(0,0,0,.05);
+}
